@@ -25,7 +25,7 @@ Research Questions to Answer:
 Data Sets to be Used:
 San Francisco: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry
 Denver: https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-crime
-Phoenix: 
+Phoenix: https://phoenixopendata.com/dataset/crime-data
 New York City: https://data.cityofnewyork.us/Public-Safety/NYC-crime/qb7u-rbmr
 Miami: https://miami.demo.socrata.com/Government/Miami-Crime/fjex-3twp
 Minneapolis: http://opendata.minneapolismn.gov/datasets/police-incidents-2018/geoservice
