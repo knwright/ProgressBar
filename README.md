@@ -5,7 +5,7 @@ Are People Really Werewolves During the Full Moon?
 Team Members:
 Katie Wright (San Francisco)
 Erin Lampa (Denver)
-Ricky Ravin (Houston)
+Ricky Ravin (Phoenix)
 Justin Miller (New York City)
 Dave Kingsley (Minneapolis)
 Sameh Hashish (Miami)
@@ -25,7 +25,7 @@ Research Questions to Answer:
 Data Sets to be Used:
 San Francisco: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry
 Denver: https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-crime
-Houston: http://data.houstontx.gov/dataset/houston-police-department-crime-statistics
+Phoenix: 
 New York City: https://data.cityofnewyork.us/Public-Safety/NYC-crime/qb7u-rbmr
 Miami: https://miami.demo.socrata.com/Government/Miami-Crime/fjex-3twp
 Minneapolis: http://opendata.minneapolismn.gov/datasets/police-incidents-2018/geoservice
