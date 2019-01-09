@@ -1,5 +1,5 @@
 # ProgressBar
-Project Title:/n
+Project Title:
 Are People Really Werewolves During the Full Moon?
 
 Team Members:
@@ -13,7 +13,7 @@ Sameh Hashish (Miami)
 Project Description/Outline:
 1. Each group member will take one city, in parenthesis above
 2. Each group member will then compare their city's crime data to moon phase data from 2015-2017
-3. 2015-2017 moon phase data obtained from US Naval Observatory in saved in .csv
+3. 2015-2017 moon phase data obtained from US Naval Observatory in saved .csv
 4. 1/10 group members will have pulled crime data and sorted it by offense and date of occurrence
 
 Research Questions to Answer:
